@@ -1,5 +1,6 @@
 .env
 agents/__pycache__/
+__pycache__/
 services/__pycache__/
 workflows/__pycache__/
 venv/
