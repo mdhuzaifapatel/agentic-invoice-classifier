@@ -3,6 +3,4 @@ agents/__pycache__/
 services/__pycache__/
 workflows/__pycache__/
 venv/
-credentials/service_account.json
-credentials/oauth.json
-credentials/token.json
+credentials/
